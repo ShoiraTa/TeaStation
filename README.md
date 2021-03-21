@@ -10,7 +10,7 @@
 
 | Contact page | Homepage| Mobile version| 
 | --- | --- | --- |
-| ![](./img/screen1.png) | ![](./img/screen2.png)| ![](./img/screen3.png)
+| ![](./images/screen1.png) | ![](./images/screen2.png)| ![](./images/screen3.png)
 
 ## Built With
 
