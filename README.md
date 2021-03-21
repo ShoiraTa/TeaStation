@@ -8,9 +8,9 @@
 
 >In this project, I  implemented the best HTML and CSS practices.
 
-| Contact page | Homepage| Mobile version| 
-| -- | -- | --- |
-| ![](./images/screen1.png) | ![](./images/screen2.png)| ![](./images/screen3.png)
+| Contact page | Homepage|
+| -- | -- |
+| ![](./images/screen1.png) | ![](./images/screen2.png)|
 
 ## Built With
 
