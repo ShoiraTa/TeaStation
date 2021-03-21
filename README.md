@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-### live link https://shoirata.github.io/TeaStation/products.html
+### Live link https://shoirata.github.io/TeaStation/products.html
 
 [Solo project]
 
